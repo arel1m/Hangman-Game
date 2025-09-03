@@ -4,24 +4,27 @@ Overview
 The Hangman Game is a Python program that allows players to guess letters in order to uncover a hidden word.  
 It was originally created as part of my high school coding club as a guided project.  
 
-Features  
-- Randomly selects a word from a word bank  
-- Interactive text-based interface  
-- Tracks correct and incorrect guesses  
-- Ends with a win or loss message based on performance  
+Features:
+*Randomly selects a word from a word bank  
+*Interactive text-based interface  
+*Tracks correct and incorrect guesses  
+*Ends with a win or loss message based on performance  
 
-Installation & Usage  
-1. Clone or download the repository.  
+
+How to Install
+Step 1: Clone or download the repository.  
 
    git clone https://github.com/your-username/hangman-game.git
    
-2. Navigate into the project folder:
+Step 2: Navigate into the project folder:
 
-   cd hangman-game
+&emsp; cd hangman-game
 
-3. Run the program:
+Step 3: Run the program:
 
-   python hangman.py
+&emsp;python hangman.py
+
+&emsp;ps: if this doesn't work, try python3 hangman.py
 
 Example Gameplay
 Welcome to Hangman!
