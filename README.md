@@ -19,9 +19,11 @@ It was originally created as part of my high school coding club as a guided proj
    git clone https://github.com/your-username/hangman-game.git
    
 2. Navigate into the project folder:
+   ```bash
    cd hangman-game
 
 3. Run the program:
+   ```bash
    python hangman.py
 
 ## 📖 Example Gameplay
