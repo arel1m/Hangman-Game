@@ -12,15 +12,16 @@ Features:
 
 
 How to Install
-Step 1: Clone or download the repository.  
+
+*Step 1: Clone or download the repository.  
 
    git clone https://github.com/your-username/hangman-game.git
    
-Step 2: Navigate into the project folder:
+*Step 2: Navigate into the project folder:
 
 &emsp; cd hangman-game
 
-Step 3: Run the program:
+*Step 3: Run the program:
 
 &emsp;python hangman.py
 
