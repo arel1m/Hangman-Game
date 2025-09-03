@@ -18,3 +18,25 @@ It was originally created as part of my high school coding club as a guided proj
    ```bash
    git clone https://github.com/your-username/hangman-game.git
    
+2. Navigate into the project folder:
+   cd hangman-game
+
+3. Run the program:
+   python hangman.py
+
+## 📖 Example Gameplay
+Welcome to Hangman!
+_ _ _ _ _
+
+Guess a letter: a
+Good guess!
+
+_ a _ _ _
+
+Guess a letter: z
+Sorry, that's not in the word.
+
+🙌 Acknowledgments
+
+This project was originally created as part of my high school coding club under the guidance of our instructor.
+I contributed by coding along with the walkthrough, testing the program, and practicing how input validation and game logic were implemented.
